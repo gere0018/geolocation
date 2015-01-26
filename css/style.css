@@ -1,0 +1,12 @@
+#wrapper{
+    margin: 0 auto;
+    width:500px;
+    height:600px;
+    padding: 10px;
+    padding-left:100px;
+    background-color: #B2CAF6;
+    border: 2px solid #475162;
+}
+h3,p{
+    font-family: "Georgia", sans-serif;
+}

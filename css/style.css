@@ -1,11 +1,13 @@
 #wrapper{
     margin: 0 auto;
+    min-width:400px;
     max-width:500px;
     max-height:600px;
     padding: 10px;
     padding-left:100px;
     background-color: #B2CAF6;
     border: 2px solid #475162;
+    overflow: auto;
 }
 h3,p{
     font-family: "Georgia", sans-serif;
